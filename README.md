@@ -1,4 +1,4 @@
- Hi, I’m João. 
+ # Hi, I’m João!
  
  I'm a student of Information Systems who's also studies Python as main language, at now. 🐍 
  
