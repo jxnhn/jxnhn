@@ -1,10 +1,4 @@
- # Hi, I’m João!
- 
- I'm a student of Information Systems who's also studies Python as main language, at now. 🐍 
- 
- 
- I'm also interested on Linux and have recently changed my OS into Linux Mint. 🐧 
- 
- 
- I'm working to be a back-end developer, and in the future I also want to work with Security of Information.
- 
+Olá, me chamo João.
+
+Sou um universitário do curso de Sistemas de Informação, movido pela curiosidade e aprendizado dentro do mundo da tecnologia. 
+Programo em Java, Python e C#, e almejo me tornar um dev back-end cada vez melhor.
