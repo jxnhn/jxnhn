@@ -1,4 +1,5 @@
-Olá, me chamo João.
+olá, me chamo joão pedro. 
 
-Sou um universitário do curso de Sistemas de Informação, movido pela curiosidade e aprendizado dentro do mundo da tecnologia. 
-Programo em Java, Python e C#, e almejo me tornar um dev back-end cada vez melhor.
+eu sou um universitário do curso de sistemas de informação movido à curiosidade, sobretudo sobre o que acontece por debaixo dos panos em tudo que vejo.
+
+mexo com java, python, c#, linux e tudo que for necessário para alcançar algum objetivo. 
