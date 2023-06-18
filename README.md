@@ -1,7 +1,7 @@
 ## olá, me chamo joao pedro.
 <div align="center">
   <a href="https://github.com/jxnhn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxnhn&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxnhn&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxnhn&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
