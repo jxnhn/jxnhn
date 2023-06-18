@@ -3,7 +3,7 @@
   <a href="https://github.com/jxnhn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxnhn&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxnhn&layout=compact&langs_count=7&theme=shadow_red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxnhn&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
